@@ -14,7 +14,7 @@ try{
 let dec = `
 
 ╒──[ASTA BOT]
-│ ᴏᴡɴᴇʀ : dave 
+│ ᴏᴡɴᴇʀ : MANU
 │ ɴᴜᴍʙᴇʀ: 254114127157
 │ ᴘʀᴇғɪx: .
 ╰─────────────
@@ -53,7 +53,7 @@ let dec = `
 ┣❐ ➤.𝙼𝚎𝚗𝚞
 ┣❐ ➤.𝚁𝚎𝚙𝚘
 ┗⬣ 
-©dave
+© MANU
  thanks to the almighty 
 `
 await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/whar66.jpg`},caption:dec},{quoted:mek});
