@@ -13,13 +13,13 @@ try{
 
 let dec = `*ASTA BOT *
 
-*| ᴏᴡɴᴇʀ ɴᴀᴍᴇ*: dave
-*| ɴᴜᴍʙᴇʀ*: 254114127157
+*| ᴏᴡɴᴇʀ ɴᴀᴍᴇ*: MANJ
+*| ɴᴜᴍʙᴇʀ*: 254797303045
 *| ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ*: https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v
 
 special thanks to malvin king
 `
-await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/whar66.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://i.ibb.co/vPGJ3zG/e8ce03a4fd1b920d.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
