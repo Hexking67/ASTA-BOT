@@ -1,7 +1,7 @@
 {
   "name": "ASTA-BOT",
   "description": "Javascript WhatsApp bot made by Dave",
-  "logo": "https://files.catbox.moe/whar66.jpg",
+  "logo": "https://i.ibb.co/vPGJ3zG/e8ce03a4fd1b920d.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -12,7 +12,7 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://i.ibb.co/vPGJ3zG/e8ce03a4fd1b920d.jpg",
       "required": true
     },
     
