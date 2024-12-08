@@ -21,7 +21,7 @@ let desc = `*ASTA BOT SONG DOWNLOADER*
 ╭─❏ TITLE - ${data.title}
 ┣❐ ➤.🕺
 ┗⬣ ASTA MD BOT
-© DAVE
+© MANU
 
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -67,7 +67,7 @@ let des = `* ASTA BOT VIDEO DOWNLOADER *
 
 | ➤ AGO - ${data.ago}
 
-> ©dave
+> ©MANU
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:des},{quoted:mek});
 
