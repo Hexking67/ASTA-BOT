@@ -14,9 +14,9 @@ try{
 let dec = `* *_ ASTA BOT REPO_* 
 
 
-* Repo:* https://github.com/Davemiracle01/ASTA-BOT-
+* Repo:* https://github.com/Hexking67/ASTA-BOT/
 
-OWNER https://wa.me/254114127157?text=Hi%20Dave
+OWNER https://wa.me/254797303045?text=Hi%20MANU
 
 
 _Thank you for choosing ASTA BOT
@@ -24,7 +24,7 @@ _Thank you for choosing ASTA BOT
 *Join My WhatsApp Channel✓ - :* https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v
 
 
-> *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : © dave*
+> *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : © MANU*
 `
 await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/whar66.jpg`},caption:dec},{quoted:mek});
 
