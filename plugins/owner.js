@@ -13,9 +13,9 @@ try{
 
 let dec = `*ASTA BOT *
 
-*| ᴏᴡɴᴇʀ ɴᴀᴍᴇ*: dave
-*| ɴᴜᴍʙᴇʀ*: 254114127157
-*| ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ*: https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v
+*| ᴏᴡɴᴇʀ ɴᴀᴍᴇ*: MANU
+*| ɴᴜᴍʙᴇʀ*: 254704518069
+*| ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ*: 
 
 special thanks to malvin king
 `
