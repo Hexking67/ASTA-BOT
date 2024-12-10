@@ -56,7 +56,7 @@ let dec = `
 © MANU
  thanks to the almighty 
 `
-await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/whar66.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://i.ibb.co/4gdrQt5/17a4391faf96e45b.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
