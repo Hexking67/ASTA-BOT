@@ -20,7 +20,7 @@ let status =` ASTA MD
     *├ HostName*: ${os.hostname()}
     *├ Version*: 1.0.0
     └───────────────────────
-     ©dave
+     © MANU
 `
 return reply(`${status}`)
 }catch(e){
